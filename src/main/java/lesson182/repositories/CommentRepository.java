@@ -1,6 +1,6 @@
-package lesson18.repositories;
+package lesson182.repositories;
 
-import lesson18.model.Comment;
+import lesson182.model.Comment;
 
 public interface CommentRepository {
     void storeComment(Comment comment);

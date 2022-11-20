@@ -1,4 +1,4 @@
-package lesson18.model;
+package lesson182.model;
 
 public class Comment {
 

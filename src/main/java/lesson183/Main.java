@@ -1,9 +1,7 @@
-package lesson18;
+package lesson183;
 
-import lesson18.model.Comment;
-import lesson18.proxies.EmailCommentNotificationProxy;
-import lesson18.repositories.DbCommentRepository;
-import lesson18.services.CommentService;
+import lesson183.model.Comment;
+import lesson183.services.CommentService;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 public class Main {

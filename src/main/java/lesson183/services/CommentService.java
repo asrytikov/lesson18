@@ -1,17 +1,19 @@
-package lesson18.services;
+package lesson183.services;
 
-import lesson18.model.Comment;
-import lesson18.proxies.CommentNotificationProxy;
-import lesson18.repositories.CommentRepository;
+import lesson183.model.Comment;
+import lesson183.proxies.CommentNotificationProxy;
+import lesson183.repositories.CommentRepository;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Service;
 
-@Component
+@Service
 public class CommentService {
 
     private final CommentRepository commentRepository;
     private final CommentNotificationProxy commentNotificationProxy;
 
-    public CommentService(CommentRepository commentRepository, CommentNotificationProxy commentNotificationProxy){
+    public CommentService(CommentRepository commentRepository,@Qualifier("PUSH") CommentNotificationProxy commentNotificationProxy){
         this.commentRepository = commentRepository;
         this.commentNotificationProxy = commentNotificationProxy;
     }

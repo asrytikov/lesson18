@@ -1,20 +1,18 @@
-package lesson18.services;
+package lesson182.services;
 
-import lesson18.model.Comment;
-import lesson18.proxies.CommentNotificationProxy;
-import lesson18.repositories.CommentRepository;
+import lesson182.model.Comment;
+import lesson182.proxies.CommentNotificationProxy;
+import lesson182.repositories.CommentRepository;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
 public class CommentService {
+    @Autowired
+    private CommentRepository commentRepository;
+    @Autowired
+    private CommentNotificationProxy commentNotificationProxy;
 
-    private final CommentRepository commentRepository;
-    private final CommentNotificationProxy commentNotificationProxy;
-
-    public CommentService(CommentRepository commentRepository, CommentNotificationProxy commentNotificationProxy){
-        this.commentRepository = commentRepository;
-        this.commentNotificationProxy = commentNotificationProxy;
-    }
 
     public void publishComment(Comment comment){
         commentRepository.storeComment(comment);

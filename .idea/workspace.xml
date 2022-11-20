@@ -4,17 +4,65 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44e729ae-da29-4c6e-9771-6d3c3e285d12" name="Changes" comment="" />
+    <list default="true" id="44e729ae-da29-4c6e-9771-6d3c3e285d12" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/ProjectConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/ProjectConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/proxies/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/proxies/CommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/proxies/EmailCommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/proxies/EmailCommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/repositories/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/repositories/DbCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/repositories/DbCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson18/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson18/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/ProjectConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/ProjectConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/proxies/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/proxies/CommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/proxies/EmailCommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/proxies/EmailCommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/repositories/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/repositories/DbCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/repositories/DbCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson182/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson182/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/ProjectConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/ProjectConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/model/Comment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/model/Comment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/proxies/CommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/proxies/CommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/proxies/CommentPushNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/proxies/CommentPushNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/proxies/EmailCommentNotificationProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/proxies/EmailCommentNotificationProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/repositories/CommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/repositories/CommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/repositories/DbCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/repositories/DbCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lesson183/services/CommentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/lesson183/services/CommentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DeliveryDetailPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DeliveryDetailPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SortedByAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SortedByAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SortedByCountry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SortedByCountry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Sorter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Sorter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SorterByName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SorterByName.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2Hncrvh0yjUwYxpP00Jrn2FbU3I" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -23,9 +71,65 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/asrytikov/Desktop/Java2022/lesson18/src/main/java/lesson183"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\asrytikov\Desktop\Java2022\lesson18\src\main\java\lesson183" />
+      <recent name="C:\Users\asrytikov\Desktop\Java2022\lesson18\src\main\java\lesson182" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.lesson182.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson18.Main" />
+      <module name="lesson18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson182.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson182.Main" />
+      <module name="lesson18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson182.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lesson183.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson183.Main" />
+      <module name="lesson18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson183.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.lesson182.Main" />
+        <item itemvalue="Application.lesson183.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -34,7 +138,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668924492643</updated>
+      <workItem from="1668924494331" duration="7167000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

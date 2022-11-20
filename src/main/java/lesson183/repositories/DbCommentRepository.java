@@ -1,10 +1,11 @@
-package lesson18.repositories;
+package lesson183.repositories;
 
-import lesson18.model.Comment;
+import lesson183.model.Comment;
 import org.springframework.stereotype.Component;
+import org.springframework.stereotype.Repository;
 
-@Component
-public class DbCommentRepository implements CommentRepository{
+@Repository
+public class DbCommentRepository implements CommentRepository {
 
     @Override
     public void storeComment(Comment comment) {

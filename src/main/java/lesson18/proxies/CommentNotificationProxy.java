@@ -1,4 +1,8 @@
-package lesson18;
+package lesson18.proxies;
 
-public class CommentNotificationProxy {
+import lesson18.model.Comment;
+
+public interface CommentNotificationProxy {
+
+    void sendComment(Comment comment);
 }

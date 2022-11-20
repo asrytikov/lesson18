@@ -1,6 +1,6 @@
-package lesson18.proxies;
+package lesson182.proxies;
 
-import lesson18.model.Comment;
+import lesson182.model.Comment;
 
 public interface CommentNotificationProxy {
 
